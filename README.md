@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haohao
+- 👋 Hi, I’m haohao
 - 👀 I’m interested in Go and Java
 - 🌱 I’m currently learning Go and Java
 
